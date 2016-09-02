@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/angadgill92/nodeschoolNPM/issues"
   },
-  "homepage": "https://github.com/angadgill92/nodeschoolNPM#readme"
+  "homepage": "https://github.com/angadgill92/nodeschoolNPM#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
