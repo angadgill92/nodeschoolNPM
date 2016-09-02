@@ -1,0 +1,19 @@
+{
+  "name": "nodeschool_npm",
+  "version": "1.0.0",
+  "description": "'dependencies of nodeschool_npm'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/angadgill92/nodeschoolNPM.git"
+  },
+  "author": "angadgill92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angadgill92/nodeschoolNPM/issues"
+  },
+  "homepage": "https://github.com/angadgill92/nodeschoolNPM#readme"
+}
